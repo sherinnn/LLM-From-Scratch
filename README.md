@@ -14,7 +14,4 @@ This repo is a personal journey to understand and implement the core building bl
 
 My goal
 
-Instead of using direct libraries blindly, I wanted to focus on
-Understanding why things work
-Implementing components from scratch
-Building intuition step by step
+Instead of using direct libraries blindly, I wanted to focus on understanding why things work, implementing components from scratch and building intuition
