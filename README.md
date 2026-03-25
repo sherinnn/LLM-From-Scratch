@@ -9,7 +9,8 @@ This repo is a personal journey to understand and implement the core building bl
 - ✅ Basic Self-Attention 
 - ✅ Self Attention with k,q,v
 - ✅ Causal self attention mechanism
-- ⏳ multi head attention
+- ✅ Multi head attention - basic
+- ⏳ Multi head attention with parallel processing
 - ⏳ Mini GPT-style model
 
 My goal
