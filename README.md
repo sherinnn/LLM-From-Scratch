@@ -61,5 +61,5 @@ Instead of relying on direct libraries, I wanted to focus on:
 - ✅ Causal self attention mechanism
 - ✅ Multi head attention - basic
 - ✅ Multi head attention with parallel processing
-- ⏳ Mini GPT-style model
+- ✅ Mini GPT-style model (https://github.com/sherinnn/LLM-Architecture)
 
